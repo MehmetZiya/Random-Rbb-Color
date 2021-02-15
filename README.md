@@ -1,1 +1,2 @@
-# Random-Rbb-Color
+# Random-Rgb-Color
+Basic React App.
